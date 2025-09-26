@@ -1,0 +1,29 @@
+# --- Unity cache/build ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# --- IDE / OS ごみ ---
+.vs/
+.idea/
+.DS_Store
+
+# --- 自動生成ファイル ---
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
